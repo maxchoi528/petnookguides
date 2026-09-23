@@ -130,3 +130,13 @@ Code changes from this pass:
   https://vcacanada.com/sitecore/content/vca/home/know-your-pet/puppy---recommendations-for-new-owners-part-ii---general-care
 - Purina Institute: Feeding kittens
   https://www.purinainstitute.com/centresquare/life-stage-nutrition/feeding-kittens
+
+## 2026-09-23 Guide Publication Check
+
+Scope: `articles/dry-matter-basis-wet-vs-dry.html`.
+
+- Topic: dry matter basis math for comparing wet and dry cat food labels.
+- Sources opened and checked: FDA “Complete and Balanced” Pet Food, AAFCO Nutritional Labeling, AAFCO Reading Labels, and Tufts Petfoodology on guaranteed analysis.
+- Line check: dry matter formula, 100 - moisture, 12% protein / 78% moisture / 22% dry matter / 54.5% protein example, as-fed wording, and min/max guaranteed analysis wording matched sources.
+- Adversarial check: no product superiority, no medical treatment advice, no Amazon/product claims, no affiliate links, and no hands-on/testing claim.
+- Publication audit: article JSON-LD, source links, internal links from dog/cat label guides, guides index card, home card, sitemap URL, matching cel-shaded object-only illustration, and local HTTP checks passed.
